@@ -48,13 +48,18 @@ void operator +(Time1 &n1,Time2 &n2)
 
 if(sec>=60)
 {
-    sec=sec-60;
-    mi++;
+
+      int a=sec/60;
+    cout<<a<<endl;
+      mi=mi+a;
+      sec=sec%60;
+
 }
  if(mi>=60)
 {
-    mi=mi-60;
-    hr++;
+    int b=mi/60;
+    hr=hr+b;
+    mi=mi%60;
 }
 cout<<hr<<":"<<mi<<":"<<sec<<endl;
 }
