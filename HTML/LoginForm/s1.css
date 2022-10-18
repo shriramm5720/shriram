@@ -1,0 +1,76 @@
+body {
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.a {
+    font-size: 10;
+    margin-top: 0px;
+    background-color: bisque;
+    padding: 0.2px;
+
+}
+
+.b {
+
+    text-align: center;
+    font-size: 25px;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 0px;
+
+}
+
+.c {
+    background-color: white;
+    margin-top: 1cm;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border-style: solid;
+    border-color: blanchedalmond;
+
+
+
+}
+
+.login {
+    font-size: 20px;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+.prn {
+    background-color: none;
+    font-style: italic;
+    padding: 15px;
+
+}
+
+.prn-input {
+    background-color: none;
+    padding: 15px;
+    height: 0.02px;
+
+}
+
+.pass {
+    background-color: none;
+    font-style: italic;
+    padding: 15px;
+}
+
+.pass-input {
+    background-color: none;
+    padding: 15px;
+    height: 0.02px;
+}
+
+.log {
+    background-color: none;
+    font-style: italic;
+    padding: 15px;
+}
+
+}
