@@ -1,0 +1,88 @@
+ class-"row product-details" "ngif-" productData">
+2 v cdiv class-"col-se-6">
+< ing class." product-image" src-" (( productData. image))" alt-"">
+3
+</div>
+4
+S v cdiv class-"col-sn-6">
+6 u <div class."details">
+<h1>[(productData.name) 1</h1>
+7 8 9 18
+ch3>price
+((productData.price))</h3>
+<div>
+olor:
+ch5 [style.backgroundcolor ]-" productData.color" class- product-color" > ((productDate
+rdiv>
+ché>Catecory : ((productData.category) ) </h6>
+chéxCategory ((productData.description) )</h6>
+15
+<button>Add to Cart</button>
+<button>Buy Mow</button>
+16
+ediv class. "qunt ity-group"s
+17
+<button>-</button>
+cinput type-"text" value-"1" />
+<buttonac/button>
+</div>
+R
+</div>
+24
+
+
+
+
+class-"row product-details" "ngif- productData"s
+
+w cdiv class-"col-sa-6">
+
+<ing class-" product- image" src-" (( productData. image))" alt."">
+
+</div>
+
+w div class-"col-sa-6">
+
+<div class."details">
+
+ch1> (productData.name)X</h1>
+
+ch3>Price : ((productData.price))c/h3>
+
+J.<div>
+
+Color:
+
+ch5 [style.backgroundColor ]-" productData.color" class-" product -color" >((productDate
+
+fdiv>
+
+th6>Catecory : ([productData.catecory ] ) </h6>
+
+ch6xCategory : ((productData.description) )</h6>
+
+<button>Add to Cart</button>
+
+<button>Buy Mow</button>
+
+<div class-" quantity-group"
+
+cbutton>-</button>
+
+cinput type-"text" value-"1" />
+
+cbutton>sc/button>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+</div>
+</div>
